@@ -12,7 +12,7 @@ const Product = ({img,link}) => {
                 <img src={img} alt="" className="p-img" />
             </a>
         </div>
-    )
-}
+    );
+};
 
 export default Product;
