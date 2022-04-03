@@ -67,7 +67,7 @@ const Contact = () => {
             </div>
                     <div className="c-right">
                         <p className="c-desc">
-                            <b>Ready to have your own dream design?</b> Get in Touch. I am ready to make your masterpiece!
+                            <b>Ready to create your own dream design?</b> Get in Touch. I am ready to make your masterpiece!
                         </p>
                         <form ref={formRef} onSubmit={handleSubmit}>
                             <input type="text" placeholder="Name" name="user_name" />
