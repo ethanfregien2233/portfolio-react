@@ -8,7 +8,6 @@ export const products = [
         id: 1,
         img: image1,
         link: "https://tranquil-tor-89831.herokuapp.com/"
-        
     },
     
     {
